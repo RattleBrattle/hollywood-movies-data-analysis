@@ -64,7 +64,19 @@ Below are some of the visualizations generated in this analysis:
 - Worldwide gross bar plots by genre and studio  
 - Correlation heatmap between profitability, ratings, and gross
 
+1. Basic Distributions:
+
 ![Basic Distributions](https://github.com/RattleBrattle/hollywood-movies-data-analysis/blob/main/Images/Basic%20Distribution/Basic%20Distributions.png?raw=true)
+
+2. Profitability Data:
+
+!(Profitability Data)[https://github.com/RattleBrattle/hollywood-movies-data-analysis/blob/main/Images/Profitability%20Visualizations/output.png?raw=true]
+
+3. Ratings Data:
+
+!(Ratings Visualization Data)[https://github.com/RattleBrattle/hollywood-movies-data-analysis/blob/main/Images/Ratings%20Visualizations/Critics%20vs%20Audience%20Ratings%20visualizations.png?raw=true]
+
+- For more Important visualizations, check the images folder.
 
 ---
 
